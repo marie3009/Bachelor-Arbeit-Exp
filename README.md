@@ -16,3 +16,5 @@ Collaborative filtering:
 - collab filtering random user
 - collab filtering 50-50 user
 - collab filtering 55-45 user
+
+Please do not execute the "create profils" file. We already posted on GitHub the required csv files to do the collaborative filtering.
