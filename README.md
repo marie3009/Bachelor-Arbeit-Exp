@@ -19,4 +19,4 @@ Collaborative filtering:
 - collab filtering 50-50 user
 - collab filtering 55-45 user
 
-Please do not execute the "create profils" file. We already posted on GitHub the required csv files to do the collaborative filtering. Once you've saved those three csv files, you just have to choose which experience you want to try first! The collab filtering random user file uses the csv file: user_interactions_random. The collab filtering 50-50 user uses the csv file: user_interactions_50_50.csv. And the collab filtering 50-50 user uses the csv file: user_interactions_55_45.csv.
+Please do not execute the "create profils" file. We already posted on GitHub the required csv files to do the collaborative filtering. Once you've saved those three csv files, you just have to choose which experience you want to try first! The collab filtering random user file uses the csv file: user_interactions_random. The collab filtering 50-50 user uses the csv file: user_interactions_50_50.csv. And the collab filtering 50-50 user uses the csv file: user_interactions_bias_55_45.csv.
