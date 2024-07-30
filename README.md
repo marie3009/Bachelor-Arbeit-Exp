@@ -8,7 +8,6 @@ Content-based filtering:
 - tf-idf
 - word2vec
 - sentence transformer
-- simulation
 - content based filtering
 
 In order to try successfully our experience, you have to run the files tf-idf, word2vec and sentence transformer, because they are going to create new files that we are going to need for the next step. After that you just have to run the content based filtering file, being sure that the required files have been successfully created, and that's it! 
