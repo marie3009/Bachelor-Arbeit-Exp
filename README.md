@@ -1,5 +1,5 @@
 # Bachelor-Arbeit-Exp
-Here all the files of the different experiences we tried.
+Here all the files with the different experiences we've tried.
 
 List of all the experiences we did to show to what extent is clickbait content given greater prominence. This list is in the order of our work: 
 
